@@ -1,0 +1,35 @@
+Accelerate research and discovery
+Enrich your interactions
+Anticipate and preempt disruptions
+Recommend with confidence
+Scale expertise and learning
+Detect liabilities and mitigate risk
+
+
+1. Introduction to Knowledge
+Accountability
+Value Alignment
+Explanability
+Fairness
+User Data Rights
+
+Intent
+The first step in the AI Essentials Framework is intent. During this activity, you will diverge and converge to align your team on the business and user intents for your solution. This will help you determine why and how you might use AI to solve your users’ problems. A very real outcome of this activity can be the decision to not use AI—and that’s okay. This activity will influence the rest of the AI Essentials Framework activities, so spend as much time as you need on it. Check out the AI Essentials: Intent Toolkit activity for a detailed walk-through.
+
+Big Idea Vignettes
+After you land on your intent, use it as a prompt for ideas. At this point, you should be familiar with the Big Idea Vignettes Toolkit activity. Spend some time with your team coming up with as many ideas as you can. Then, discuss which idea will have the most value to your business and your users. Move forward with that idea.
+
+Data
+Next, you’ll look at what it takes to bring your idea to life. The data activity helps document any and all data that can be used to bring your intent and big idea to life. Data is the fuel for AI. The process of getting usable data takes hard work and requires you to hit 2 big checkboxes: quantity and quality. In this activity, you’ll brainstorm what data you have, what data you need, and what data would be nice to have. Check out the AI Essentials: Data Toolkit activity for a detailed walk-through.
+
+Understanding
+Next, you’ll break down each data source relevant to what your AI needs to learn. This will help you determine what you need to teach your AI so it can understand the ins and outs of your domain. Over time, it will begin to pick up on jargon, trends, and patterns in the data. Check out the AI Essentials: Understanding Toolkit activity for a detailed walk-through.
+
+Reasoning
+This activity will help you hypothesize what your system will be able to do based on what it understands from the data you feed it. The goal is to revisit your big ideas and bring them down to earth. Seeing your ideas in the context of what’s feasible is crucial in getting to actionable next steps. Check out the AI Essentials: Reasoning Toolkit activity for a detailed walk-through.
+
+Knowledge
+After you’ve refined your big idea and developed a reasoning statement, it’s time to think intentionally about the direct and indirect effects of your AI. This is the first step of a process and mindset that never ends. You need to have a plan for growing and maintaining the relationship between your users and your AI over time. Check out the AI Essentials: Knowledge Toolkit activity for a detailed walk-through.
+
+
+
